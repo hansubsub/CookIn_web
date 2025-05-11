@@ -26,3 +26,5 @@
 
 ## 개발 상태
 1.Conceptulization 문서 작성 ✔️
+2.Analysis 문서 작성 ✔️
+
